@@ -23,21 +23,9 @@ $(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    $(".close").click(function(){
+        $(".popup").hide();
+    });
 
 
 
